@@ -9,5 +9,6 @@ package com.offcn.git;
 public class FitDemo {
     public static void main(String[] args) {
         System.out.println("disici commit");
+        System.out.println("hot-fix");
     }
 }
